@@ -81,7 +81,7 @@ Los Omrom E3Z-D se comportan muy diferente ante diferentes colores/acabados supe
 
 Pero también está el modelo Omrom E3Z-LS que tiene un haz de luz que concentra toda la intensidad en un espacio muy pequeño, en el orden de milímetros, lo que hace que la reflexión captada sea casi independiente del área/color/acabado de la superficie. Además que cuenta con BGS (supresión de fondo) que son métodos para detectar objetos no solo en la intensidad sino que usa triangulación geométrica. 
 
-El lado negativo es que esta gama de sensores son extremadamente caros (170 USD) en estado nuevo y originales y además su distancia de alcance es muy pequeña, por debajo de los 20cm.
+El lado negativo es que esta gama de sensores son extremadamente caros (170 USD) y además su distancia de alcance es muy pequeña, por debajo de los 20cm.
 
 <img width="452" height="285" alt="Especificaciones sensor Omron E3Z-LS con supresion de fondo BGS" src="https://github.com/user-attachments/assets/c4f6f917-c359-4531-9637-ad92d9a139cc" />
 
