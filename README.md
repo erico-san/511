@@ -13,7 +13,7 @@ Esto se logra bajando el centro de masa con una base de acero inoxidable y un si
 * **Parte delantera:** [Ver en Onshape](https://cad.onshape.com/documents/30f2fe6714e3628f9fcf3131/w/3cf9c9f8e3532016b5838cb8/e/816fd499ac567c18d15aaf2d)
 
 También dejo adjunta una guía de ensamble para una versión anterior, que es muy similar a la actual:
-* [Guía de ensamble Mini sumo 508.pdf](Guia%20de%20ensamble%20Mini%20sumo%20508.pdf)
+* [Guía de ensamble Mini sumo 508.pdf](hardware/Guia%20de%20ensamble%20Mini%20sumo%20508.pdf)
 
 ## El chasis
 
