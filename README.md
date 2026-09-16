@@ -78,6 +78,7 @@ Los sensores usados son E3ZC-BN06-R (cada uno 30USD) y se eligieron porque deber
 Los E3Z-D se comportan muy diferente ante diferentes colores/acabados superficiales.
 
 <img width="398" height="461" alt="10" src="https://github.com/user-attachments/assets/1e3e9a75-2e82-403c-b75c-b295467dba96" />
+
 Pero también está el modelo E3Z-LS que tiene un haz de luz que concentra toda la intensidad en un espacio muy pequeño, en el orden de milímetros, lo que hace que la reflexión captada sea casi independiente del área/color/acabado de la superficie. Además que cuenta con BGS (supresión de fondo) que son métodos para detectar objetos no solo en la intensidad sino que usa triangulación geométrica. 
 
 El lado negativo es que esta gama de sensores son extremadamente caros (170 USD) en estado nuevo y originales y además su distancia de alcance es muy pequeña, por debajo de los 20cm.
