@@ -1,4 +1,4 @@
-# 611 [Minisumo Autónomo Master]
+# 511 [Minisumo Autónomo Master]
 
 Se recopila toda la información del desarrollo de un minisumo autónomo con potencial de atacar hasta 1.7m/s sin levantar la cuchilla del suelo. 
 
